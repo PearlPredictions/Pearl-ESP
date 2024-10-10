@@ -5,7 +5,7 @@
 // @description  Soon best!
 // @author       ElecOFC and Mate0007
 // @match        https://bloxflip.com/*
-// @icon         https://github.com/PearlPredictions/Pearl-ESP/blob/main/pearllogo.png?raw=true
+// @icon         https://github.com/PearlPredictions/Pearl-ESP/blob/main/pearl-logo.png?raw=true
 // @downloadURL  https://github.com/PearlPredictions/Pearl-ESP/raw/main/pearl-esp.user.js
 // @updateURL    https://github.com/PearlPredictions/Pearl-ESP/raw/main/pearl-esp.user.js
 // @grant        GM_xmlhttpRequest
